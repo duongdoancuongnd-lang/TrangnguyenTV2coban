@@ -1,0 +1,6 @@
+{
+  "name": "Ôn Luyện Trạng Nguyên Tiếng Việt Lớp 2",
+  "description": "Ứng dụng ôn luyện Trạng Nguyên Tiếng Việt Lớp 2 theo chương trình GDPT 2018 với đa dạng các dạng bài tập, 19 vòng thi từ dễ đến khó, học kỳ 1 và 2, theo dõi kết quả và cấp bằng chứng nhận.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
